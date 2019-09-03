@@ -9,7 +9,7 @@
 		<version>2.1.7.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.adonis</groupId>
+	<groupId>com.adonis.app</groupId>
 	<artifactId>springboot-quartz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springboot-quartz</name>

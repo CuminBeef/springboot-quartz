@@ -1,4 +1,4 @@
-package com.adonis.springbootquartz.schedule;
+package com.adonis.app.springbootquartz.schedule;
 
 import java.util.Date;
 
